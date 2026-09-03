@@ -1,4 +1,4 @@
-package сustomStringBuilder;
+package javaCoreAQA.сustomStringBuilder;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
